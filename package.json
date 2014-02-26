@@ -1,0 +1,34 @@
+{
+  "name": "blanket-lcov-browser",
+  "version": "0.0.0",
+  "description": "Generate blanket lcov report file from client-side tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heldr/blanket-lcov-browser.git"
+  },
+  "keywords": [
+    "blanket",
+    "lcov",
+    "web",
+    "browser",
+    "coverage",
+    "coveralls"
+  ],
+  "author": "Helder Santana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heldr/blanket-lcov-browser/issues"
+  },
+  "homepage": "https://github.com/heldr/blanket-lcov-browser",
+  "devDependencies": {
+    "gulp-uglify": "~0.2.1",
+    "gulp": "~3.5.2",
+    "gulp-jshint": "~1.5.0",
+    "jshint-stylish": "~0.1.5",
+    "gulp-concat": "~2.1.7"
+  }
+}
