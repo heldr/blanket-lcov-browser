@@ -9,11 +9,17 @@
     "noempty": true,
     "regexp": true,
     "undef": true,
+    "unused": true,
     "strict": true,
     "trailing": true,
     "smarttabs": true,
     "node": true,
+    "browser": true,
     "globalstrict": true,
     "white": true,
-    "indent": 4
+    "indent": 4,
+    "globals": {
+        "blanket": true,
+        "phantom": true
+    }
 }
