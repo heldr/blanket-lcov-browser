@@ -25,10 +25,8 @@
   },
   "homepage": "https://github.com/heldr/blanket-lcov-browser",
   "devDependencies": {
-    "gulp-uglify": "~0.2.1",
     "gulp": "~3.5.2",
     "gulp-jshint": "~1.5.0",
-    "jshint-stylish": "~0.1.5",
-    "gulp-concat": "~2.1.7"
+    "jshint-stylish": "~0.1.5"
   }
 }
